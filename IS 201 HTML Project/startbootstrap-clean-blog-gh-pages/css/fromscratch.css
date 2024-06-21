@@ -1,0 +1,39 @@
+.wrapper {
+    text-align: center;
+font: 100;
+font-family: Georgia, 'Times New Roman', Times, serif; 
+background-color: antiquewhite;  
+}
+body {
+    text-align: center;
+ font: 150px;  
+ font-family: sans-serif; 
+ background-color: antiquewhite;
+ color: black;
+ 
+
+}
+h2 {
+    font-family: Georgia, 'Times New Roman', Times, serif
+    ;
+}
+h1 {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+h3 {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+h4 {   
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.title {
+    color: darkslategray;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    background-color: aliceblue;
+    text-decoration:solid;
+}
+.nav {
+    text-align: left;
+    color: blue;
+    font-family: Arial, Helvetica, sans-serif;
+}
